@@ -1,2 +1,14 @@
-# praxis
-Praxis Academy est une plateforme pédagogique innovante dédiée aux étudiants en santé. Grâce aux Quiz Praxis, aux Praxis Sim et au Passeport Praxis, elle permet de développer les compétences, le raisonnement clinique et le suivi de progression de manière personnalisée, interactive et conforme aux référentiels de formation.
+# Praxis Academy MVP V1
+
+Prototype fonctionnel pour pilote IFSI.
+
+## Contenu
+- Accueil étudiant
+- Quiz Praxis avec corrections détaillées
+- Passeport Praxis avec progression locale
+- Praxis Sim interactive
+- Tableau formateur simplifié
+- Stockage local via navigateur
+
+## GitHub Pages
+Déposer ces fichiers dans un dépôt GitHub puis activer Settings > Pages > Deploy from branch > main / root.
